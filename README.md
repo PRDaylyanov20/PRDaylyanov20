@@ -15,3 +15,7 @@
 - 📫 &nbsp; You can reach me via email: PRDaylyanov20@codingburgas.bg
 
 <hr>
+
+## Languages and Tools I can use:
+
+<code><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
