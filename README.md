@@ -6,3 +6,12 @@
 
 
 <img align="right" height="250" width="375" alt="" src="https://i.pinimg.com/originals/c3/04/87/c30487ca4ddfea1babb9382556097e63.gif" />
+
+## About me :
+
+- 😆 &nbsp; I'm currently learning HTML5&CSS3, C++, C#, Python
+- 🐱‍💻 &nbsp; I am going to upload my work here in [Github](https://github.com/PRDaylyanov20)
+- 🐬 &nbsp; I love collecting coins, gaming, doing random stuff overall.
+- 📫 &nbsp; You can reach me via email: PRDaylyanov20@codingburgas.bg
+
+<hr>
