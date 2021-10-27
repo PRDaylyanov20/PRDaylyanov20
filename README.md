@@ -53,6 +53,6 @@
   <hr>
 <div align="center">
 
-# Focus on yourself not others!
+# Programming is the key to the Future!
 
 </div>
