@@ -28,3 +28,38 @@
 <code><img alt="vscode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" ></code>
 
 
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+![Grade](https://github-readme-stats.vercel.app/api?username=kvatev&show_icons=true&theme=radical&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvatev&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
+</details>
+
+<details>
+  <summary><b>🐍 Contribution Graph</b></summary>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif" alt="snake gif">
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Repositories</b></summary>
+
+[![Math Games 2020](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=math-games-2020)](https://github.com)
+[![Fire department 2021](https://github-readme-stats.vercel.app/api/pin/?username=ssivanov19&repo=fire-department-2021)](https://github.com)
+</details>
+
+<details style = "display: inline;">
+  <summary><b>📚 Badges</b></summary>
+
+<a href =https://images.credly.com/size/220x220/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png"><img align="left" alt="Excel" width="200px" src="https://images.credly.com/size/220x220/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
+ <a href ="https://images.credly.com/size/220x220/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png5"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/220x220/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
+</details>  
+
+<br>
+  <hr>
+<div align="center">
+
+# Focus on yourself not others!
+
+</div>
