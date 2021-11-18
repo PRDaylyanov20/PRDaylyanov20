@@ -13,6 +13,7 @@
 - 🐱‍💻 &nbsp; I am going to upload my work here in [Github](https://github.com/PRDaylyanov20)
 - 🐬 &nbsp; I love collecting coins, gaming, doing random stuff overall.
 - 📫 &nbsp; You can reach me via email: PRDaylyanov20@codingburgas.bg
+- 🖤 &nbsp; Check my main profile [ShadowCode007](https://github.com/ShadowCode07). I will upload personal work there
 
 <hr>
 
